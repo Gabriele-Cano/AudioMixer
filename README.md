@@ -12,7 +12,6 @@ The Python code is modular, you can implement your preferred control by inheriti
 
 The case was modeled using Fusion 360 and then 3D printed in white PLA. For the handles I used a 3D model found on on Thingiverse. 
 
-![20240514_191908](https://github.com/user-attachments/assets/bc32cdb7-7569-4ef5-b38c-791640f5a1a3)
+![20240514_191908](https://github.com/user-attachments/assets/a54001f4-c3c8-4812-b7fb-63a7f7982e77)
 
-![20240501_194658](https://github.com/user-attachments/assets/fe1d8541-af98-469a-8ecb-51cbae6c13f7)
-
+![20240501_194658](https://github.com/user-attachments/assets/41e4cc81-9aa5-4b58-a858-592cc84fda30)
